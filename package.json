@@ -1,0 +1,26 @@
+{
+  "name": "na13-praas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prod": "node build.js",
+    "links": "node JsDelivr.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NotAnother-NZ/na13-praas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NotAnother-NZ/na13-praas/issues"
+  },
+  "homepage": "https://github.com/NotAnother-NZ/na13-praas#readme",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "fs-extra": "^11.2.0"
+  }
+}

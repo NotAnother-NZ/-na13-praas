@@ -1,5 +1,5 @@
 /*
-Copyright (c) [year] Not Another™ (https://www.na.studio)
+Copyright (c) [2024] Not Another™ (https://www.na.studio)
 
 This code is part of the Praas project (https://praas.co.nz).
 

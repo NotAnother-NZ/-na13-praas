@@ -1,30 +1,15 @@
 {
   "name": "na13-praas",
-  "version": "1.0.0",
-  "description": "",
+  "description": "Template repo for merging and minifying JS and CSS files by Druh.in",
   "main": "build.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "prod": "node build.js",
     "links": "node JsDelivr.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/NotAnother-NZ/na13-praas.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/NotAnother-NZ/na13-praas/issues"
-  },
-  "homepage": "https://github.com/NotAnother-NZ/na13-praas#readme",
+  "author": "Druhin Tarafder",
+  "license": "Apache-2.0",
   "dependencies": {
     "axios": "^1.7.7",
     "fs-extra": "^11.2.0"
-  },
-  "devDependencies": {
-    "terser": "^5.32.0",
-    "uglify-js": "^3.19.3"
   }
 }
